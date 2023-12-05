@@ -17,8 +17,7 @@ to get this in the clipboard:
 UPDATE MyTable SET [Field1] = N'String', [Field2] = 0
 ```
 
-
 ## Credits
 
-// https://stackoverflow.com/a/40403351/1288109
-// https://github.com/MrM40/W-WinClipboard
+- https://stackoverflow.com/a/40403351/1288109
+- https://github.com/MrM40/W-WinClipboard
