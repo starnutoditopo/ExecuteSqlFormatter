@@ -1,0 +1,1 @@
+Sql icon by: https://raw.githubusercontent.com/rdecarlo73/icons/master/sql.ico
